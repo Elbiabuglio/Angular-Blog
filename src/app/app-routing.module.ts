@@ -5,12 +5,10 @@ import { ContentComponent } from './pages/content/content.component';
 
 const routes: Routes = [
   {
-    path:'',
-    component:HomeComponent
+    path: '', component: HomeComponent
   },
   {
-    path:'content/:id',
-    component:ContentComponent
+    path: 'content/:id', component: ContentComponent
   }
 ];
 

@@ -1,9 +1,11 @@
-.container__small-card{
+.container__small-card {
   width: 700px;
-  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
 }
 
-.container__small-card-content{
+.container__small-card-content {
   display: flex;
   flex-direction: row;
 }
@@ -20,6 +22,6 @@
   align-items: center;
 }
 
-.container__small-card__separator{
-  margin-top: 10px;
+.container__small-card_separator {
+  margin-top: 20px;
 }
