@@ -7,7 +7,7 @@
 - Criar uma aplicação de blog funcional, construir componentes inteligentes e aprender como organizar um projeto Angular utilizando as ferramentas que o próprio Framework oferece.
 
 
-## Clique em [Angular-Blog](https://github.com/Elbiabuglio/Angular-Blog/) para visualizar o projeto.
+## Clique em [Angular-Blog](http://localhost:4200/) para visualizar o projeto.
 ##
 
 | Angular    | Ganhando produtividade com Angular               |
